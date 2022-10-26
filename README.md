@@ -7,7 +7,7 @@ Very simple script to remove specific strings from a list of files, useful for t
 3. Make sure this folder contains only the files you want to rename and the **Tag_Remover.exe**
 4. Run the **`Tag_Remover.exe`** file, enter the text you want to remove from the filenames and press enter.
 
-**If there is a space between the text you want to remove and the actual file name, enter the space as well.**
+**If there is a space between the text you want to remove and the actual file name, enter the space as well.**<br>
 Example:
 ```
     File name: "[GOOGLE.COM] File.txt"
