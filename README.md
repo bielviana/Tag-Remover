@@ -1,4 +1,6 @@
 # Tag-Remover
+[![Support Me on Ko-fi](https://i.imgur.com/7Cm07AZ.png)](https://ko-fi.com/siriusbeck)
+<br><br>
 Very simple script to remove specific strings from a list of files, useful for those who download compiled files from websites and in the name of each file there is "[SITE_NAME]" at the beginning.
 
 ## How to use
@@ -14,3 +16,9 @@ Example:
     Text to remove: "[GOOGLE.COM] " instead of "[GOOGLE.COM]" (Type without quotes)
     Renamed file: "File.txt"
 ```
+
+## Links
+- **[Discord Server](https://discord.gg/pVKQ7vzmKE)**
+- **[Instagram](https://instagram.com)**
+- **[Twitter](https://twitter.com/_katiorro)**
+- **[NexusMods](https://www.nexusmods.com/users/73453593)**
